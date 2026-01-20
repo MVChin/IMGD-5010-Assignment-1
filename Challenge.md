@@ -23,7 +23,10 @@ Complete the instruction list so that the following image is drawn
 100 011 011  
 101 011 011  
 
-Using the Image and Colour lists, add instructions to draw the roof, door and window
+Using the Image and Colour lists  
+![Image-list.png](https://github.com/MVChin/IMGD-5010-Assignment-1/blob/images/Image-list.png)  
+![Image-list.png](https://github.com/MVChin/IMGD-5010-Assignment-1/blob/images/Image-list.png)  
+add instructions to draw the roof, door and window  
 *Roof*  
 
 *Door*  
