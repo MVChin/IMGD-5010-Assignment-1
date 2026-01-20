@@ -24,13 +24,13 @@ Using row-column locations makes the grid expandable in both directions by simpl
 
 ## Images
 This image mapping is as shown below
-![Image-list.png](https://github.com/MVChin/IMGD-5010-Assignment-1/blob/images/Image list.png)
+![Image-list.png](https://github.com/MVChin/IMGD-5010-Assignment-1/blob/images/Image-list.png)
 
 ## Colours
 The default colour for the instruction is black.  The fourth octet is used to define colour for the selected location only.  If only three octets are detected then the language will default to black on a white background.
 
 The colour mappings are as shown
-![Screenshot-2026-01-19-133814.png](https://github.com/MVChin/IMGD-5010-Assignment-1/blob/images/Screenshot 2026-01-19 133814.png)
+![Screenshot-2026-01-19-133814.png](https://github.com/MVChin/IMGD-5010-Assignment-1/blob/images/Screenshot-2026-01-19-133814.png)
 # Example
 
 The image below is an example of the type of picture that may be created using the listed components in the Images section.
