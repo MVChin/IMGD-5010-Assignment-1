@@ -39,22 +39,16 @@ The image below is an example of the type of picture that may be created using t
 
 To draw the single filled yellow square inside an outlined square that is 3 x 3 large, the following instructions would be:
  
-011 100 001 011  *yellow square
+011 100 001 011 *yellow square
 
 Bottom of the square*
-
 001 011 010 
-
 001 100 010
-
 001 101 010
 
 *Left side of the square*
-
 010 011 011
-
 011 011 011
-
 100 011 011
 
 *Top of the square*
