@@ -15,7 +15,8 @@ The default for colour is black on a white background.  The last [colour] octet 
 ## Row and Column Locations
 Using a 3-bit number for the row and column locations will define an 8x8 grid which will create a square of 64 units as displayed:
 
-![grid.png](jb-image:img_1768842856486_83a6985b2840f)
+![grid.png](https://github.com/MVChin/IMGD-5010-Assignment-1/blob/images/grid.png?raw=true)
+
 Row positions will be read from bottom to top and columns are read from left to right. Therefore location of the square indicated above will be 111 000
 
 
@@ -23,19 +24,18 @@ Using row-column locations makes the grid expandable in both directions by simpl
 
 ## Images
 This image mapping is as shown below
-![Image-list.png](jb-image:img_1768845631169_48174399c84d48)
+![Image-list.png](https://github.com/MVChin/IMGD-5010-Assignment-1/blob/images/Image-list.png)
 
 ## Colours
 The default colour for the instruction is black.  The fourth octet is used to define colour for the selected location only.  If only three octets are detected then the language will default to black on a white background.
 
 The colour mappings are as shown
-![Screenshot-2026-01-19-133814.png](jb-image:img_1768847930844_96bece99712d3)
-
+![Screenshot-2026-01-19-133814.png](https://github.com/MVChin/IMGD-5010-Assignment-1/blob/images/Screenshot-2026-01-19-133814.png)
 # Example
 
 The image below is an example of the type of picture that may be created using the listed components in the Images section.
 
-![Example.png](jb-image:img_1768848306330_1d356e8a28a17)
+![Example.png](https://github.com/MVChin/IMGD-5010-Assignment-1/blob/images/Example.png)
 
 To draw the single filled yellow square inside an outlined square that is 3 x 3 large, the following instructions would be:
  
