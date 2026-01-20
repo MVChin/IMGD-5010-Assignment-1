@@ -40,22 +40,39 @@ The image below is an example of the type of picture that may be created using t
 To draw the single filled yellow square inside an outlined square that is 3 x 3 large, the following instructions would be:
  
 011 100 001 011  *yellow square
+
 Bottom of the square*
-001 011 010     
+
+001 011 010 
+
 001 100 010
-001 101 010 
+
+001 101 010
+
 *Left side of the square*
+
 010 011 011
+
 011 011 011
+
 100 011 011
+
 *Top of the square*
+
 101 011 100
+
 101 100 100
+
 101 101 100
+
 *Right side of the square*
+
 010 101 101
+
 011 101 101
+
 100 101 101
+
 
 # Limitations
 The use of mapping a predefined images to a location to create a larger image has the limitation of not being able to combining images at a single location.  For example, a single location cannot have both the top line AND the left side outlined.  
