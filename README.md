@@ -30,7 +30,7 @@ This image mapping is as shown below
 The default colour for the instruction is black.  The fourth octet is used to define colour for the selected location only.  If only three octets are detected then the language will default to black on a white background.
 
 The colour mappings are as shown
-![Screenshot-2026-01-19-133814.png](https://github.com/MVChin/IMGD-5010-Assignment-1/blob/images/Screenshot-2026-01-19-133814.png)
+![Colour.png](https://github.com/MVChin/IMGD-5010-Assignment-1/blob/images/Colour.png)
 # Example
 
 The image below is an example of the type of picture that may be created using the listed components in the Images section.
