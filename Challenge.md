@@ -12,10 +12,10 @@ Complete the instruction list so that the following image is drawn
 001 101 011  
 
 *Right Side*  
-010 110 100  
-011 110 100  
-100 110 100  
-101 110 100  
+010 110 101  
+011 110 101  
+100 110 101  
+101 110 101  
 
 *Left side of the square*  
 010 011 011  
@@ -24,8 +24,7 @@ Complete the instruction list so that the following image is drawn
 101 011 011  
 
 Using the Image and Colour lists  
-![Image-list.png](https://github.com/MVChin/IMGD-5010-Assignment-1/blob/images/Image-list.png)  
-![Image-list.png](https://github.com/MVChin/IMGD-5010-Assignment-1/blob/images/Image-list.png)  
+![Image-list.png](https://github.com/MVChin/IMGD-5010-Assignment-1/blob/images/Image-list.png)  ![Colour.png](https://github.com/MVChin/IMGD-5010-Assignment-1/blob/images/Colour.png)  
 add instructions to draw the roof, door and window  
 *Roof*  
 
